@@ -4,7 +4,7 @@
 # Análisis de las ordenes del restaurante “Sabores del Mundo” de enero a marzo del 2023.
 
 
-## Contexto.
+## Introducción.
 
 
 El restaurante "Sabores del Mundo", es conocido por su auténtica cocina y su ambiente acogedor.
@@ -14,10 +14,13 @@ Este restaurante lanzó un nuevo menú a principios de año y ha estado recopila
 
 ## Objetivo.
 
+
 Identificar cuáles son los productos del menú que han tenido más éxito y cuales son los que
 menos han gustado a los clientes.
 
+
 ## Desarrollo de preguntas.
+
 
 ### 1. **Crear la base de datos con el archivo create_restaurant_db.sql.**
    
@@ -87,7 +90,9 @@ Logramos visualizar la relación entre las ordenes y los platillos, categorías 
 
     ![Categorias_VT](https://github.com/user-attachments/assets/7431e04b-0b5c-431d-8e68-b910b6fd59a3)    ![Categorias_V](https://github.com/user-attachments/assets/c1fb7983-7dac-466a-8787-01b9286138e5)
 
+
 ## Conclusiones:
+
 
 Derivado de la información obtenida en las tablas y consultas anteriores, se puede recomendar aumentar la cantidad de platillos y/o enfocarse en la categoría “Italian” (1er lugar en ventas totales y 2do en platillos vendidos), ya que con 522 platillos menos vendidos que la categoría “Asian” (1er lugar en platillos vendidos y 2do en ventas totales), registro 2,742.05 dólares más en ventas totales. 
 
